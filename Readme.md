@@ -1,4 +1,4 @@
-# 💫 João Germano
+# João Germano
 Front-end developer from São Paulo, 19. I like combining code with design, hardware and audiovisual. Working my way into Creative Engineering
 
 
